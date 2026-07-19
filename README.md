@@ -216,20 +216,6 @@ Potential extensions include:
 - Cross-model and cross-scale transfer experiments
 - Adaptive steering policies that select layers and coefficients dynamically
 
-## Citation
-
-If you use this repository, please cite the associated thesis:
-
-```bibtex
-@thesis{rashkin2026persona,
-  title={User-Controlled Full-Personality AI Assistants:
-         Extending Persona Vectors to Multi-Dimensional Personality Spaces},
-  author={Rashkin, Nikita},
-  year={2026},
-  school={Innopolis University},
-  type={Bachelor's Thesis}
-}
-```
 
 ## License
 
